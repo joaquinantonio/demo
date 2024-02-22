@@ -1,1 +1,2 @@
 Edited content
+This is a new feature
